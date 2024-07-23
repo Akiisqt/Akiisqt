@@ -1,4 +1,6 @@
 ## Hi there 👋
+
+![Static Badge](https://img.shields.io/badge/:badgeContent?style=flat-square&logo=discord&logoColor=f5f5f5&label=Contact%20me&labelColor=%235865F2&color=%235865F2&link=https%3A%2F%2Fdiscord.com%2Fusers%2F485987127809671168)
 ![status](https://api.statusbadges.me/badge/status/485987127809671168?simple=true&style=flat-square&label=I%20am%20currently&labelColor=gray&color=gray)
 <!--
 **Akiisqt/Akiisqt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
