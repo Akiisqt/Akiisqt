@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![discord]([https://img.shields.io/badge/Contact%20me?style=flat-square&logo=discord&logoColor=f5f5f5&labelColor=%235865F2&color=%235865F2&link=https%3A%2F%2Fdiscord.com%2Fusers%2F485987127809671168](https://img.shields.io/badge/Contact_me-discord?style=for-the-badge&logo=discord&logoColor=FFFFFF&labelColor=35865F2&color=%235865F2&link=https%3A%2F%2Fdiscord.com%2Fusers%2F485987127809671168))
+![discord](https://img.shields.io/badge/Contact_me-discord?style=for-the-badge&logo=discord&logoColor=FFFFFF&labelColor=35865F2&color=%235865F2&link=https%3A%2F%2Fdiscord.com%2Fusers%2F485987127809671168)
 ![status](https://api.statusbadges.me/badge/status/485987127809671168?simple=true&style=for-the-badge&label=I%20am%20currently&labelColor=gray&color=gray)
 <!--
 **Akiisqt/Akiisqt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
