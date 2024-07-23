@@ -1,5 +1,5 @@
 ## Hi there 👋
-![status](https://api.statusbadges.me/badge/status/485987127809671168?simple=true)
+![status](https://api.statusbadges.me/badge/status/485987127809671168?simple=true?label=test)
 <!--
 **Akiisqt/Akiisqt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
