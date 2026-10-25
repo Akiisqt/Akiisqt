@@ -1,0 +1,131 @@
+{
+  "profile": {
+    "name": "Akiisqt",
+    "handle": "@Akiisqt",
+    "tagline": "Computer Science Student @MSOE ✦ Looking for Opportunities ✦ ",
+    "email": "aki@devours.rocks",
+    "location": "Milwaukee, WI"
+  },
+  "window_title": "github.com/Akiisqt/Akiisqt/README.md",
+  "cat_ascii": [
+    " /\\ _ /\\ ",
+    "( =^.^= )",
+    " (\")(\")"
+  ],
+  "bottom_characters": [
+    [
+      "(\\_/)",
+      "(o.o)"
+    ],
+    [
+      "/\\_/\\ ",
+      "( =^.^=)"
+    ],
+    [
+      "  X  ",
+      " -|:|- "
+    ],
+    [
+      "c(..o)",
+      "( > <)"
+    ]
+  ],
+  "titles": {
+    "cat": "cat",
+    "about": "about",
+    "skills": "skills",
+    "interests": "interests",
+    "connect": "connect",
+    "activity": "activity",
+    "osu": "osu",
+    "steam": "steam",
+    "music": "music"
+  },
+  "labels": {
+    "country": "country",
+    "global": "global",
+    "plays": "plays",
+    "accuracy": "accuracy",
+    "performance": "performance",
+    "level": "level",
+    "commits": "commits",
+    "contributions": "contributions",
+    "repos": "repos",
+    "stars": "stars",
+    "steam_level": "level",
+    "steam_games": "games",
+    "steam_community": "community",
+    "steam_top": "top",
+    "steam_verified": "Verified"
+  },
+  "about": [
+    "Self-taught Software developer and Computer Science Engineer in training.",
+    "Talented in game development, backend systems and efficient programming.",
+    "Driven by clean architecture, music, and opportunities.",
+    "Working on Open Source projects, reach out for help."
+  ],
+  "skills": [
+    "Python",
+    "Machine Learning",
+    "TypeScript",
+    "Web Development",
+    "Java",
+    "C++",
+    "Leadership",
+    "Lua"
+  ],
+  "interests": [
+    "Tabletop games",
+    "90s to 00s Rock",
+    "Pursuing Knowledge",
+    "Videogames",
+    "Chilling with Friends",
+    "Trivia"
+  ],
+  "connect": [
+    {
+      "text": "◈ github.com/Akiisqt",
+      "color": "violet"
+    },
+    {
+      "text": "◈ steamcommunity.com/id/akiisqt",
+      "color": "blue"
+    },
+    {
+      "text": "◈ linkedin.com/in/Akiisqt",
+      "color": "blue"
+    },
+    {
+      "text": "◈ aki@devours.rocks",
+      "color": "cyan"
+    },
+    {
+      "text": "◈ benjamina@msoe.edu",
+      "color": "cyan"
+    },
+    {
+      "text": "◈ discord: aki6",
+      "color": "violet"
+    }
+  ],
+  "music": {
+    "channel_url": "https://music.youtube.com/@Akiisqt",
+    "fallback_playlist": "Late 90s/Early 2000s Rock",
+    "fallback_genre": "Alternative Rock / Nu-Metal"
+  },
+  "osu": {
+    "username": "Akiisqt",
+    "user_id": 19621847
+  },
+  "steam": {
+    "custom_url": "akiisqt",
+    "profile_url": "https://steamcommunity.com/id/akiisqt/"
+  },
+  "links": {
+    "github": "https://github.com/Akiisqt",
+    "osu": "https://osu.ppy.sh/users/19621847",
+    "youtube_music": "https://music.youtube.com/@Akiisqt",
+    "linkedin": "https://linkedin.com/in/Akiisqt",
+    "discord": "https://discord.com/users/485987127809671168"
+  }
+}

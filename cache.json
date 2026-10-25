@@ -1,0 +1,105 @@
+{
+  "github": {
+    "username": "Akiisqt",
+    "followers": 1,
+    "repositories": 10,
+    "stars": 0,
+    "commits": 254,
+    "contributions": 182,
+    "monthly_contributions": [
+      [
+        "Nov",
+        11
+      ],
+      [
+        "Dec",
+        0
+      ],
+      [
+        "Jan",
+        0
+      ],
+      [
+        "Feb",
+        0
+      ],
+      [
+        "Mar",
+        0
+      ],
+      [
+        "Apr",
+        2
+      ],
+      [
+        "May",
+        0
+      ],
+      [
+        "Jun",
+        0
+      ],
+      [
+        "Jul",
+        0
+      ],
+      [
+        "Aug",
+        7
+      ],
+      [
+        "Sep",
+        113
+      ],
+      [
+        "Oct",
+        49
+      ]
+    ],
+    "pull_requests": 7,
+    "issues": 13
+  },
+  "osu": {
+    "global_rank": 753011,
+    "country_rank": 130398,
+    "pp": 1302.48,
+    "accuracy": 82.707,
+    "play_count": 4677,
+    "level": "56.79"
+  },
+  "steam": {
+    "level": 66,
+    "games_count": 174,
+    "top_games": [
+      "Overwatch\u00ae",
+      "Factorio",
+      "Papers, Please"
+    ]
+  },
+  "youtube_music": {
+    "track": "By Myself",
+    "artist": "Linkin Park",
+    "artists_hours": [
+      [
+        "The Presidents of The United States of America",
+        6
+      ],
+      [
+        "Linkin Park",
+        5
+      ],
+      [
+        "Disturbed",
+        1
+      ],
+      [
+        "System of A Down",
+        1
+      ],
+      [
+        "Red Hot Chili Peppers",
+        1
+      ]
+    ]
+  }
+}

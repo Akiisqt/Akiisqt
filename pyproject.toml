@@ -1,0 +1,30 @@
+[project]
+name = "akiisqt-profile"
+version = "0.1.0"
+description = "Cyber-Emo & Authentic osu! Rhythm Aesthetic Dynamic Profile & Stats GIF Generator"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pillow>=10.0.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0.0",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=7.0.0",
+]
+
+[project.scripts]
+generate-stats = "scripts.loader:main"
+
+[tool.uv]
+package = false
+
+[tool.pytest.ini_options]
+testpaths = ["scripts/tests"]
+pythonpath = ["."]
+

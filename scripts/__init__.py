@@ -1,0 +1,4 @@
+"""
+Profile stats generator package.
+"""
+
