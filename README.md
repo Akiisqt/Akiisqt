@@ -1,8 +1,7 @@
-
 ---
 
 <p align="center">
-  <img src="github_stats.gif" width="100%" />
+  <img src="github_stats.gif?v=1792909253" width="100%" />
 </p>
 
 ---
