@@ -33,7 +33,7 @@ jobs:
 
       - name: Generate Gif
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TOKEN: ${{ secrets.TOKEN }}
         run: |
           uv run python scripts/loader.py
 

@@ -89,9 +89,9 @@ SPARKLE_COUNT = 45
 # ============================================================
 
 def get_token() -> str:
-    token = os.getenv("GITHUB_TOKEN", "").strip()
+    token = os.getenv("TOKEN", "").strip()
     if token:
-        return token
+        return "github_" + token
 
     env_path = ROOT_DIR / ".env"
     if env_path.is_file():
@@ -100,8 +100,8 @@ def get_token() -> str:
                 line = line.strip()
                 if line and not line.startswith("#") and "=" in line:
                     key, val = line.split("=", 1)
-                    if key.strip() == "GITHUB_TOKEN":
-                        return val.strip().strip('"').strip("'")
+                    if key.strip() == "TOKEN":
+                        return "github_" + val.strip().strip('"').strip("'")
         except OSError:
             pass
     return ""

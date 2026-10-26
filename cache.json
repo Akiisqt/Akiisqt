@@ -4,8 +4,8 @@
     "followers": 1,
     "repositories": 10,
     "stars": 0,
-    "commits": 254,
-    "contributions": 182,
+    "commits": 296,
+    "contributions": 123,
     "monthly_contributions": [
       [
         "Nov",
@@ -49,36 +49,35 @@
       ],
       [
         "Sep",
-        113
+        72
       ],
       [
         "Oct",
-        49
+        31
       ]
     ],
-    "pull_requests": 7,
-    "issues": 13
+    "pull_requests": 15,
+    "issues": 7
   },
   "osu": {
-    "global_rank": 753011,
-    "country_rank": 130398,
-    "pp": 1302.48,
-    "accuracy": 82.707,
-    "play_count": 4677,
-    "level": "56.79"
+    "global_rank": 752809,
+    "country_rank": 130394,
+    "pp": 1304.35,
+    "accuracy": 82.6888,
+    "play_count": 4681,
+    "level": "56.83"
   },
   "steam": {
     "level": 66,
     "games_count": 174,
     "top_games": [
       "Overwatch\u00ae",
-      "Factorio",
-      "Papers, Please"
+      "Counter-Strike 2"
     ]
   },
   "youtube_music": {
+    "track": "Leave Out All The Rest",
     "artist": "Linkin Park",
-    "track": "By Myself",
     "artists_hours": [
       [
         "The Presidents of The United States of America",
@@ -89,15 +88,15 @@
         5
       ],
       [
-        "Disturbed",
-        1
-      ],
-      [
-        "System of A Down",
-        1
-      ],
-      [
         "Red Hot Chili Peppers",
+        4
+      ],
+      [
+        "U2",
+        2
+      ],
+      [
+        "Bob Marley",
         1
       ]
     ]
